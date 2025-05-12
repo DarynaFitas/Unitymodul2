@@ -1,21 +1,27 @@
+# Unity generated files
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Mm]emoryCaptures/
+MemoryCaptures/
 UserSettings/
 
-# VS/JetBrains
+# User-specific files
+.vs/
 .vscode/
-*.csproj
-*.unityproj
-*.sln
-*.suo
-*.tmp
-*.user
-*.userprefs
+.idea/
 
-# OS
+# Windows thumbnail cache
+Thumbs.db
+
+# macOS files
 .DS_Store
+
+# JetBrains Rider
+.idea/
+
+# Unity3D generated meta files
+*.pidb
+*.userprefs
